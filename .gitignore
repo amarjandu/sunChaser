@@ -1,0 +1,12 @@
+#os x
+.DS_Store
+.idea
+# porject folders
+/media
+
+
+# infra
+.terraform
+backend.tf
+providers.tf
+variables.tf
