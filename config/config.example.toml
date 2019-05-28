@@ -1,0 +1,6 @@
+title = "server config"
+
+[remote_server]
+ip = ""
+user = ""
+password = ""
